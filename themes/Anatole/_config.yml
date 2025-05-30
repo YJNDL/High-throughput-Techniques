@@ -1,0 +1,23 @@
+# 博客配置 | Blog Configuration
+# keywords:
+author: ECP
+# description: 
+
+# 如需修改icon,请替换 source/images/favicon.ico 文件
+# If you want to change the icon, please replace the source/images/favicon.ico file
+avatar: /images/favicon.ico
+copyright: 2025
+
+# 个人信息 | Personal Information
+name: ECP
+
+# 社交账号 | Social Account
+github: https://github.com/YJNDL
+mail: arvin_huang@szu.edu.cn # 邮箱 | Email
+linkedin: 
+phone:  # 电话 | Phone
+address: 
+# QQ: http://sighttp.qq.com/authd?IDKEY=xxx
+
+# TODO：适配更多的社交账号
+# TODO: Add more social accounts
